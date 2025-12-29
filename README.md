@@ -8,7 +8,7 @@ A clean, modern, and "better looking" Rock Paper Scissors game built using Pytho
 
 ## 📸 Preview
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot.png)
 
 > *Note: If you haven't added a screenshot yet, this area will be blank.*
 
